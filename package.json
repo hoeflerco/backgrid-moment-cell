@@ -1,6 +1,6 @@
 {
   "name": "backgrid-moment-cell",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "description": "Backgrid.js datetime cell type formatted via moment.js.",
   "main": "backgrid-moment-cell.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/wyuenho/backgrid-moment-cell.git"
+    "url": "git://github.com/hoeflerco/backgrid-moment-cell"
   },
   "keywords": [
     "backbone",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/wyuenho/backgrid-moment-cell/issues"
+    "url": "https://github.com/hoeflerco/backgrid-moment-cell"
   },
   "devDependencies": {
     "grunt-contrib-clean": "~0.4.1",
